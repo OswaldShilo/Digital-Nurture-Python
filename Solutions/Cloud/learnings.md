@@ -16,7 +16,5 @@ AWS Services:
 
 Useful Resources (Created),
 - [On-Premises Architecture Diagram](./premises.png)
+- 
 -
--
--
--   
