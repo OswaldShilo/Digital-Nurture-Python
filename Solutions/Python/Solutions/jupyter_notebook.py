@@ -1,7 +1,3 @@
-# Exercise 2: Jupyter Notebook
-# Objective: Demonstrate code and math cells
-# Setup: pip install notebook  →  jupyter notebook
-
 # --- Code Cell ---
 x = 42
 y = 58

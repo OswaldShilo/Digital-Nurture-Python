@@ -1,6 +1,3 @@
-# Exercise 4: Float Precision
-# Objective: Net salary after tax with 2-decimal formatted output
-
 def calculate_net_salary(salary, tax_rate):
     if salary <= 0:
         raise ValueError("Salary must be positive")

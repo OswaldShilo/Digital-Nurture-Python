@@ -1,6 +1,3 @@
-# Exercise 5: Multiple Assignment
-# Objective: Unpack (x, y) coordinates using multiple assignment
-
 def display_coordinates(coords):
     if not isinstance(coords, (list, tuple)) or len(coords) != 2:
         raise ValueError("Provide exactly (x, y) coordinates")
